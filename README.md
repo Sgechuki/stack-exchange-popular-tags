@@ -17,10 +17,10 @@ I am going to use <a href="https://datascience.stackexchange.com/" target="_blan
   <h3>What, other than questions, does the site's home subdivide into?</h3>
   <p>On the <a href="https://datascience.stackexchange.com/" target="_blank">home page</a> we can see that we have four sections:</p>
   <ul>
-     <li><a href="https://datascience.stackexchange.com/questions" target="_blank">Questions</a> - A list of all questions asked</li>
-     <li><a href="https://datascience.stackexchange.com/tags" target="_blank">Tags</a> - A list of keywords that categorize questions</li>
-     <li><a href="https://datascience.stackexchange.com/users" target="_blank">Users</a> - A list of users</li>
-     <li><a href="https://datascience.stackexchange.com/unanswered" target="_blank">Unanswered</a> - A list of questions with no upvoted or accepted answers</li>
+     <li><a href="https://datascience.stackexchange.com/questions" target="_blank">Questions</a> - A list of all questions asked.</li>
+     <li><a href="https://datascience.stackexchange.com/tags" target="_blank">Tags</a> - A list of keywords that categorize questions.</li>
+     <li><a href="https://datascience.stackexchange.com/users" target="_blank">Users</a> - A list of users.</li>
+     <li><a href="https://datascience.stackexchange.com/unanswered" target="_blank">Unanswered</a> - A list of questions with no upvoted or accepted answers.</li>
   </ul>
   <p>The tagging system used by Stack exchange will help us solve our problem, as it enablesus quantify how many questions are asked about each subject. <br> Since Stack Exchange's sites are heavily moderated by the community; this gives us some confidence in using the tagging system to derive conclusions.</p>
   <h3>What information is available in each post?</h3>
